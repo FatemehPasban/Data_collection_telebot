@@ -4,7 +4,7 @@ import telebot
 import pandas as pd
 import re
 
-TOKEN = "5007568630:AAF9wlyQnB4vmqROffsw2vOx9ydzsjsZpIQ"
+TOKEN = "1234"
 bot = telebot.TeleBot(TOKEN)
 
 commands = {
